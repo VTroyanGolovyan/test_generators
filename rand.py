@@ -1,4 +1,4 @@
 import random
 a = random.randint(-1000, 1000)
 b = random.randint(-1000, 1000)
-print(f"{a} {b}")
+print(f"{a} {b}\n")
