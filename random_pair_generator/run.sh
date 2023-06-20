@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "2"
+python3 rand.py
